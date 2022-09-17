@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "optimizedrenderer",
+      "name": "Optimized Renderer",
+      "description": "A Mixin-based render optimizer for Forge 1.7.10.",
+      "version": "0.1",
+      "mcversion": "1.7.10",
+      "url": "https://github.com/applesfruit/OptimizedRenderer",
+      "updateUrl": "",
+      "authorList": ["applesfruit", "FalsePattern"],
+      "credits": "FalsePattern for the mod template (couldn't have done it without you!)",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]

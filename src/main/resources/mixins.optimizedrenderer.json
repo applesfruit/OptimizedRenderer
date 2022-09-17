@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8.3",
+  "package": "me.applesfruit.optimizedrenderer.mixins",
+  "refmap": "mixins.optimizedrenderer.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins":
+  [
+    "MixinFontRenderer"
+  ]
+
+}
